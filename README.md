@@ -1,2 +1,2 @@
-# comp126_finalproject
+# comp126_final_project
  
